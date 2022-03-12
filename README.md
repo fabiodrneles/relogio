@@ -1,4 +1,4 @@
-# relogio
+# Relógio
 Exercício de revisão em HTML, CSS e JAVASCRIPT na construção de um relógio.
 - Background dinâmico com animação de particulas em CSS
 
