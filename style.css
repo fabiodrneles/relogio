@@ -6243,7 +6243,9 @@
       background-color: black;
     }
 
-    .clock .hand.hour {
+    .clock .hand.hours {
+      width: 10px;
+      height: 40%;
       width: 10px;
       height: 25%;
       background-color: black;
